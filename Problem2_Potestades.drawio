@@ -25,6 +25,14 @@
         <mxCell id="aHOBTLZ51QZTwN6Q_64S-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHOBTLZ51QZTwN6Q_64S-6" target="aHOBTLZ51QZTwN6Q_64S-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aHOBTLZ51QZTwN6Q_64S-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHOBTLZ51QZTwN6Q_64S-6" target="aHOBTLZ51QZTwN6Q_64S-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="280" />
+              <mxPoint x="320" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aHOBTLZ51QZTwN6Q_64S-6" value="Is the value -1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="130" height="80" as="geometry" />
         </mxCell>
@@ -53,6 +61,12 @@
         </mxCell>
         <mxCell id="aHOBTLZ51QZTwN6Q_64S-14" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aHOBTLZ51QZTwN6Q_64S-18" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aHOBTLZ51QZTwN6Q_64S-19" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="298" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
