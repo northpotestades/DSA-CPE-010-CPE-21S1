@@ -40,7 +40,7 @@
         <mxCell id="ugjHL7-dU_ZfdXCSoBOU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ugjHL7-dU_ZfdXCSoBOU-16" target="ugjHL7-dU_ZfdXCSoBOU-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ugjHL7-dU_ZfdXCSoBOU-16" value="Output sum" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="ugjHL7-dU_ZfdXCSoBOU-16" value="Print sum" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ugjHL7-dU_ZfdXCSoBOU-18" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
