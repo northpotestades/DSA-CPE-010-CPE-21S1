@@ -25,45 +25,31 @@
         <mxCell id="ugjHL7-dU_ZfdXCSoBOU-7" value="sum = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="80" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ugjHL7-dU_ZfdXCSoBOU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ugjHL7-dU_ZfdXCSoBOU-11" target="ugjHL7-dU_ZfdXCSoBOU-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ugjHL7-dU_ZfdXCSoBOU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ugjHL7-dU_ZfdXCSoBOU-11" target="ugjHL7-dU_ZfdXCSoBOU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="300" />
+              <mxPoint x="500" y="300" />
+              <mxPoint x="500" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ugjHL7-dU_ZfdXCSoBOU-11" value="sum = sum + value" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ugjHL7-dU_ZfdXCSoBOU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ugjHL7-dU_ZfdXCSoBOU-13" target="ugjHL7-dU_ZfdXCSoBOU-4">
+        <mxCell id="ugjHL7-dU_ZfdXCSoBOU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ugjHL7-dU_ZfdXCSoBOU-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="531" y="360" />
-              <mxPoint x="531" y="180" />
-            </Array>
+            <mxPoint x="425" y="280" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ugjHL7-dU_ZfdXCSoBOU-20" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ugjHL7-dU_ZfdXCSoBOU-15">
-          <mxGeometry x="-0.8369" y="-5" relative="1" as="geometry">
-            <mxPoint x="7" y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ugjHL7-dU_ZfdXCSoBOU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ugjHL7-dU_ZfdXCSoBOU-13" target="ugjHL7-dU_ZfdXCSoBOU-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ugjHL7-dU_ZfdXCSoBOU-13" value="Add another value?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ugjHL7-dU_ZfdXCSoBOU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ugjHL7-dU_ZfdXCSoBOU-16" target="ugjHL7-dU_ZfdXCSoBOU-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugjHL7-dU_ZfdXCSoBOU-16" value="Output sum" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="440" width="110" height="40" as="geometry" />
+          <mxGeometry x="370" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ugjHL7-dU_ZfdXCSoBOU-18" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="520" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ugjHL7-dU_ZfdXCSoBOU-22" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="500" y="400" as="geometry">
-            <mxPoint x="-62" y="21" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="380" y="400" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
