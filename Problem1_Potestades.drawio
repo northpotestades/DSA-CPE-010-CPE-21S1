@@ -37,11 +37,6 @@
         <mxCell id="ugjHL7-dU_ZfdXCSoBOU-11" value="sum = sum + value" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ugjHL7-dU_ZfdXCSoBOU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ugjHL7-dU_ZfdXCSoBOU-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ugjHL7-dU_ZfdXCSoBOU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ugjHL7-dU_ZfdXCSoBOU-16" target="ugjHL7-dU_ZfdXCSoBOU-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
