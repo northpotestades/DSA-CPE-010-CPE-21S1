@@ -37,7 +37,7 @@
         <mxCell id="8pfaWsYJm06sZ0pLLKBw-5" value="Is i%2==0?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="240" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8pfaWsYJm06sZ0pLLKBw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8pfaWsYJm06sZ0pLLKBw-9" target="8pfaWsYJm06sZ0pLLKBw-32">
+        <mxCell id="8pfaWsYJm06sZ0pLLKBw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8pfaWsYJm06sZ0pLLKBw-9" target="8pfaWsYJm06sZ0pLLKBw-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8pfaWsYJm06sZ0pLLKBw-9" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;sum = sum + i&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8pfaWsYJm06sZ0pLLKBw-20" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="520" width="90" height="40" as="geometry" />
+          <mxGeometry x="380" y="630" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8pfaWsYJm06sZ0pLLKBw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8pfaWsYJm06sZ0pLLKBw-29" target="8pfaWsYJm06sZ0pLLKBw-5">
           <mxGeometry relative="1" as="geometry" />
@@ -67,7 +67,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8pfaWsYJm06sZ0pLLKBw-32" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;print sum&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="440" width="90" height="40" as="geometry" />
+          <mxGeometry x="380" y="550" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8pfaWsYJm06sZ0pLLKBw-35" value="Have all i in list been read?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
